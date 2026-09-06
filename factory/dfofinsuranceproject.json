@@ -1,0 +1,15 @@
+{
+	"name": "dfofinsuranceproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0e4f9f4c-2fd3-4f0e-8a68-6aae42672761",
+		"tenantId": "7230dfe3-ac02-44df-adbf-71663462f49c"
+	}
+}
